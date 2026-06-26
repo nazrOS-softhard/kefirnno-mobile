@@ -2,6 +2,7 @@
   "expo": {
     "name": "КефирНно",
     "slug": "kefirnno",
+    "owner": "nazros-softhard",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
